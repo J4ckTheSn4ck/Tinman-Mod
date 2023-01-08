@@ -2,5 +2,7 @@
   "item.tinmanmod.raw_potionium": "Raw Potionium",
   "item.tinmanmod.potionium": "Potionium",
 
-  "itemGroup.tinmanmod.potionium": "Tinman Mod"
+  "itemGroup.tinmanmod.potionium": "Tinman Mod",
+
+  "block.tinmanmod.potionium_ore": "Potinium Ore"
 }
